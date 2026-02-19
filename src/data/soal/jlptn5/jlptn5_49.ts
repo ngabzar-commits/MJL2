@@ -1,0 +1,5 @@
+import { Question } from "../../../types";
+
+export const jlptn5_49: Question[] = [
+  // Lanjutan akan dibuat di sini
+];
